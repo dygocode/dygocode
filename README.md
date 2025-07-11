@@ -1,11 +1,6 @@
-# Yuri Oliveira
-## Software Developer
-
-### Contact Information
+# Yuri Oliveira - **Software Developer**
 - **Email:** wassabi1002@gmail.com
 - **LinkedIn:** [linkedin.com/in/yuri2u/](https://www.linkedin.com/in/yuri2u/)
-
----
 
 ## Technical Expertise
 

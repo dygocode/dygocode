@@ -9,7 +9,7 @@
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-green)
 
 ### **Software & Tools**
-![DevOps](https://skillicons.dev/icons?i=aws,gcp,git,docker,kubernetes,terraform,redis)
+![DevOps](https://skillicons.dev/icons?i=aws,git,docker,kubernetes,terraform,redis)
 
 ### **Programming Languages**
 ![Langs](https://skillicons.dev/icons?i=cpp,go,nodejs,react,js,ts,html,css,py)
